@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
-#include "DepthImage_UE4GameModeBase.generated.h"
+#include "DepthImage_UEGameModeBase.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class DEPTHIMAGE_UE4_API ADepthImage_UE4GameModeBase : public AGameModeBase
+class DEPTHIMAGE_UE_API ADepthImage_UEGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	

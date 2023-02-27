@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "DepthImage_UE4",
+			"Name": "DepthImage_UE",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}

@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class DepthImage_UE4 : ModuleRules
+public class DepthImage_UE : ModuleRules
 {
-	public DepthImage_UE4(ReadOnlyTargetRules Target) : base(Target)
+	public DepthImage_UE(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
